@@ -1,0 +1,15 @@
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\HolaMundoApp.exe.config
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\HolaMundoApp.exe
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\bin\Debug\HolaMundoApp.pdb
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.csprojAssemblyReference.cache
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\MainWindow.g.cs
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\App.g.cs
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp_MarkupCompile.cache
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp_MarkupCompile.lref
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\MainWindow.baml
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.g.resources
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.Properties.Resources.resources
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.csproj.GenerateResource.cache
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.csproj.CoreCompileInputs.cache
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.exe
+C:\Users\Seba\source\repos\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.pdb
